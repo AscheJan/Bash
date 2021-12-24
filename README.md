@@ -1,1 +1,2 @@
-# Repository for simple bash scripts.
+# Shell
+Repository for simple bash scripts.

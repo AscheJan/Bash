@@ -1,1 +1,1 @@
-# Bash
+# Repository for simple bash scripts.
